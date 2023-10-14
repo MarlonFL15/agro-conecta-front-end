@@ -3943,6 +3943,7 @@ ul.counter-list li:nth-child(2) {
 
 .services-style-one {
 	padding: 50px 30px;
+	height: 430px;
 	background: var(--white);
 	position: relative;
 	z-index: 1;
